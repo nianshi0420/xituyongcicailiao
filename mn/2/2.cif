@@ -1,0 +1,36 @@
+
+#======================================================================
+# CRYSTAL DATA
+#----------------------------------------------------------------------
+data_VESTA_phase_1
+
+_chemical_name_common                  'La1 Co5                               '
+_cell_length_a                         5.159542
+_cell_length_b                         5.127037
+_cell_length_c                         4.056138
+_cell_angle_alpha                      90.000015
+_cell_angle_beta                       89.999985
+_cell_angle_gamma                      121.698746
+_cell_volume                           91.291294
+_space_group_name_H-M_alt              'P 1'
+_space_group_IT_number                 1
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+   La1        1.0     0.000002     0.000019    -0.000000    Uiso  ? La
+   Co1        1.0     0.327909     0.706470    -0.000000    Uiso  ? Co
+   Co2        1.0     0.672108     0.293569     0.000000    Uiso  ? Co
+   Co3        1.0     0.499988    -0.000035     0.500000    Uiso  ? Co
+   Mn1        1.0    -0.000025     0.499988     0.500000    Uiso  ? Mn
+   Mn2        1.0     0.500018     0.499988     0.500000    Uiso  ? Mn
