@@ -1,0 +1,66 @@
+
+#======================================================================
+# CRYSTAL DATA
+#----------------------------------------------------------------------
+data_VESTA_phase_1
+
+_chemical_name_common                  'Sm9 Co27'
+_cell_length_a                         4.985249
+_cell_length_b                         5.037390
+_cell_length_c                         24.596207
+_cell_angle_alpha                      90.000000
+_cell_angle_beta                       90.000000
+_cell_angle_gamma                      119.658180
+_cell_volume                           536.755793
+_space_group_name_H-M_alt              'P 1'
+_space_group_IT_number                 1
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+   Sm1        1.0     0.000073     0.000147     0.000130    Uiso  ? Sm
+   Sm2        1.0     0.668485     0.336969     0.333361    Uiso  ? Sm
+   Sm3        1.0     0.331902     0.663803     0.666367    Uiso  ? Sm
+   Sm4        1.0     0.667642     0.335284     0.193808    Uiso  ? Sm
+   Sm5        1.0     0.000190     0.000379     0.140101    Uiso  ? Sm
+   Sm6        1.0     0.331900     0.663799     0.526478    Uiso  ? Sm
+   Sm7        1.0     0.665481     0.330963     0.472593    Uiso  ? Sm
+   Sm8        1.0     0.000023     0.000045     0.860124    Uiso  ? Sm
+   Sm9        1.0     0.332568     0.665135     0.806289    Uiso  ? Sm
+   Co1        1.0     0.334206     0.668412     0.166641    Uiso  ? Co
+   Co2        1.0     0.996241     0.992482     0.499848    Uiso  ? Co
+   Co3        1.0     0.666211     0.332421     0.833339    Uiso  ? Co
+   Co4        1.0     0.344012     0.688023     0.333784    Uiso  ? Co
+   Co5        1.0     0.331595     0.663190     0.000881    Uiso  ? Co
+   Co6        1.0     0.002639     0.005278     0.665844    Uiso  ? Co
+   Co7        1.0     0.993155     0.986311     0.333215    Uiso  ? Co
+   Co8        1.0     0.668727     0.337455     0.999332    Uiso  ? Co
+   Co9        1.0     0.660802     0.321605     0.666899    Uiso  ? Co
+   Co10       1.0     0.664290     0.832939     0.253148    Uiso  ? Co
+   Co11       1.0     0.168060     0.336121     0.254790    Uiso  ? Co
+   Co12       1.0     0.168649     0.832939     0.253148    Uiso  ? Co
+   Co13       1.0     0.000445     0.500119     0.080541    Uiso  ? Co
+   Co14       1.0     0.500028     0.000055     0.080033    Uiso  ? Co
+   Co15       1.0     0.499674     0.500119     0.080541    Uiso  ? Co
+   Co16       1.0     0.330413     0.162056     0.585775    Uiso  ? Co
+   Co17       1.0     0.831157     0.662314     0.586927    Uiso  ? Co
+   Co18       1.0     0.831642     0.162056     0.585775    Uiso  ? Co
+   Co19       1.0     0.674293     0.840401     0.413934    Uiso  ? Co
+   Co20       1.0     0.166108     0.840401     0.413934    Uiso  ? Co
+   Co21       1.0     0.999705     0.499931     0.919645    Uiso  ? Co
+   Co22       1.0     0.499984    -0.000032     0.920138    Uiso  ? Co
+   Co23       1.0     0.500226     0.499931     0.919645    Uiso  ? Co
+   Co24       1.0     0.333995     0.166150     0.746973    Uiso  ? Co
+   Co25       1.0     0.833047     0.666093     0.745950    Uiso  ? Co
+   Co26       1.0     0.832155     0.166150     0.746973    Uiso  ? Co
+   Ni1        1.0     0.170279     0.340558     0.413096    Uiso  ? Ni
